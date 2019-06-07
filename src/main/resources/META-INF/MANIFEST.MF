@@ -1,0 +1,9 @@
+Manifest-Version: 1.0   
+Class-Path: .                                                                                                                                                                          
+Main-Class: com.my.packhere.SquareTest
+
+
+
+
+
+
